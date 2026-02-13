@@ -1,6 +1,14 @@
 # Magic Portfolio
-
 Magic Portfolio is a simple, clean, beginner-friendly portfolio template. It supports an MDX-based content system for projects and blog posts, an about / CV page and a gallery.
+
+
+**Plantilla de Vercel, distribuida bajo la licencia Creative Commons Attribution‑NonCommercial 4.0 International**
+
+**Plantilla: [Vercel](https://vercel.com/templates/portfolio/magic-portfolio-for-next-js)**
+
+**Repositorio del autor: [GitHub](https://github.com/orgs/once-ui-system/repositories)**
+
+**Para más información, puedes ver LICENSE dentro la raíz de este mismo proyecto**
 
 View the demo [here](https://demo.magic-portfolio.com).
 
